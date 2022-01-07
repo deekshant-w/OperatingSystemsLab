@@ -1,0 +1,9 @@
+AT = arrival time
+BT = burst time (time for exec.)
+CT(completion time) = based on gang chart
+TAT (turn around time) = CT - AT
+WT(waiting time) = TAT-BT
+RT(responce time) = first execution - AT
+
+non premtive = non stop execution till end
+preemptive = can be stopped in middle
