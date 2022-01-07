@@ -122,9 +122,6 @@ class WF(RAM):
 size = list(map(int, input("Ram block sizes: ").split()))
 usable = list(map(int, input(f"Block usable[{len(size)}] (0/1): ").split()))
 processes = list(map(int, input("Processes sizes: ").split()))
-
-print("Deekshant Wadhwa\n01296303118")
-
 FF(size, usable, processes)
 BF(size, usable, processes)
 WF(size, usable, processes)

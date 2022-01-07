@@ -13,6 +13,7 @@ from rich import box
 
 
 def me():
+    return
     print("\n")
     console = Console(width=20)
     console.print(
@@ -99,7 +100,7 @@ class PageReplacement(metaclass=ABCMeta):
 
         # Making Output
         console = Console()
-        console.print(f"\n\n {self.name} ", style="black on white")
+        console.print(f"\n\n {self.name} ", style="dark_blue")
         table = Table(show_header=True, show_footer=True, box=box.SQUARE)
 
         # Table Formatting

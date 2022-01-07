@@ -1,12 +1,16 @@
 import time
 import threading
 from datetime import datetime
+import atexit
 
 
 def timestamp(data, typ, process, i="/"):
     typ = "Reader " if typ == "r" else "Writter"
     print(f'{datetime.now().strftime("%X")} : {typ} {process} : Iteration {i} : {data}')
 
+def exit_handler(start):
+    t = round((time.perf_counter_ns() - start)/(10**9), 2)
+    print(f"\nFinished... in {t}s\n")
 
 class Problem:
     def __init__(
@@ -150,7 +154,9 @@ writterWait = linput("Writter wait time : ")
 wriiterEnd = linput("Writter end time : ")
 writterRepeat = linput("Writter repeats : ")
 
-print("Deekshant Wadhwa\n01296303118\n")
+start = time.perf_counter_ns()
+atexit.register(exit_handler, start=start)
+print()
 
 problem = Problem(
     readers,
