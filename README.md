@@ -7,7 +7,7 @@ All codes are written by me except the ones with a tilde (~) before their name i
 
 
 ### Table of Contents
-1. [First Come First Serve Scheduling](OperatingSystemsLab/tree/main/1.%20First%20Come%20First%20Serve%20Scheduling)
+1. [First Come First Serve Scheduling](/1.%20First%20Come%20First%20Serve%20Scheduling)
 2. Shortest Job First Scheduling
 3. Shortest Remaining Time First Scheduling
 4. Priority Scheduling
