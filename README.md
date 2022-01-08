@@ -30,7 +30,7 @@ All codes are written by me except the ones with a tilde (~) before their name i
 </p>
 </details><br/>
 
-### <u>Table of Contents</u>
+## Table of Contents
 
 1. [First Come First Serve Scheduling](/1.%20First%20Come%20First%20Serve%20Scheduling) - [Code](/1.%20First%20Come%20First%20Serve%20Scheduling/fcfs.py)
 
@@ -52,7 +52,10 @@ All codes are written by me except the ones with a tilde (~) before their name i
 
 </b><br/>
 
-___
-```The programs in this repo are for educational 📚 purpose. They are free to be used in any of your projects 💲 or experiment files 📁. Do concider not copying © this content onto your own repo/website without proper acknowledgements 👽.```
+## Credits
+```python
+print('Deekshant Wadhwa')
+```
+>The programs in this repo are for educational 📚 purpose. They are free to be used in any of your projects 💲 or experiment files 📁. Do concider not copying © this content onto your own repo/website without proper acknowledgements 👽.
 
-> Drop a start ⭐ maybe your wish will come true ☕
+```Drop a start ⭐ maybe your wish will come true ☕```
