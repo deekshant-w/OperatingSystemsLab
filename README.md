@@ -53,4 +53,6 @@ All codes are written by me except the ones with a tilde (~) before their name i
 </b><br/>
 
 ___
-Deekshant Wadhwa
+```The programs in this repo are for educational 📚 purpose. They are free to be used in any of your projects 💲 or experiment files 📁. Do concider not copying © this content onto your own repo/website without proper acknowledgements 👽.```
+
+> Drop a start ⭐ maybe your wish will come true ☕
