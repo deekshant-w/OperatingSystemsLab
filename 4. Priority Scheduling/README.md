@@ -8,7 +8,7 @@ Priority Scheduling is a method of scheduling processes that is based on priorit
 
 ![Output](./non.png)
 
-### Premptive: [Priority-Premptive.py](./Priority-NonPremptive.py)
+### Premptive: [Priority-Premptive.py](./Priority-Premptive.py)
 
 ### Output
 
