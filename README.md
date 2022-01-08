@@ -32,8 +32,6 @@ All codes are written by me except the ones with a tilde (~) before their name i
 </p>
 </details><br/>
 
-------------
-
 
 ### <u>Table of Contents</u>
 
@@ -55,4 +53,7 @@ All codes are written by me except the ones with a tilde (~) before their name i
 
 9. [Partitioning (First Fit , Best Fit, Worst Fit)](/9.%20Partitioning%20(First%20Fit%20%2C%20Best%20Fit%2C%20Worst%20Fit)) - [Code](/9.%20Partitioning%20(First%20Fit%20%2C%20Best%20Fit%2C%20Worst%20Fit)/partitioning.py)
 
-</b>
+</b><br/>
+
+___
+Deekshant Wadhwa
