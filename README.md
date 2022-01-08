@@ -6,13 +6,24 @@ All codes are written by me except the ones with a tilde (~) before their name i
 ------------
 
 
-### Table of Contents
+### <u>Table of Contents</u>
+
 1. [First Come First Serve Scheduling](/1.%20First%20Come%20First%20Serve%20Scheduling) - [Code](/1.%20First%20Come%20First%20Serve%20Scheduling/fcfs.py)
-2. Shortest Job First Scheduling
-3. Shortest Remaining Time First Scheduling
-4. Priority Scheduling
-5. Round Robin Scheduling
-6. Page Replacement Algorithm
-7. Bankers Algorithm
-8. Reader Writter Problem
-9. Partitioning (First Fit , Best Fit, Worst Fit)
+
+2. [Shortest Job First Scheduling](/2.%20Shortest%20Job%20First%20Scheduling) - [Code](/2.%20Shortest%20Job%20First%20Scheduling/sjf.py)
+
+3. [Shortest Remaining Time First Scheduling](/3.%20Shortest%20Remaining%20Time%20First%20Scheduling) - [Code](/3.%20Shortest%20Remaining%20Time%20First%20Scheduling/srtf.py)
+
+4. [Priority Scheduling](/4.%20Priority%20Scheduling) - [Premptive](/4.%20Priority%20Scheduling/Priority-Premptive.py) | [Non Premptive](/4.%20Priority%20Scheduling/Priority-NonPremptive.py)
+
+5. [Round Robin Scheduling](/5.%20Round%20Robin%20Scheduling) - [Code](/5.%20Round%20Robin%20Scheduling/roundRobin.py)
+
+6. [Page Replacement Algorithm](/6.%20Page%20Replacement%20Algorithm) - [Code](/6.%20Page%20Replacement%20Algorithm)
+
+7. [Bankers Algorithm](/7.%20Bankers%20Algorithm) - [Code](/7.%20Bankers%20Algorithm/banker.py)
+
+8. [Reader Writter Problem](/8.%20Reader%20Writter%20Problem) - [Code](/8.%20Reader%20Writter%20Problem/readerWritter.py)
+
+9. [Partitioning (First Fit , Best Fit, Worst Fit)](/9.%20Partitioning%20(First%20Fit%20%2C%20Best%20Fit%2C%20Worst%20Fit)) - [Code](/9.%20Partitioning%20(First%20Fit%20%2C%20Best%20Fit%2C%20Worst%20Fit)/partitioning.py)
+
+</b>
