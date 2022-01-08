@@ -3,6 +3,35 @@ Experiments for Operating Systems Lab (ETCS-352) performed by me in 2021 at uni.
 
 All codes are written by me except the ones with a tilde (~) before their name in the Table of contents mentioned below. Most of the codes donot require any external libraries but for those that do, their corresponding imports are done at the top of their respective files. I have also attatched a cummulative requirements.txt file.
 
+<details><summary>Topics Covered 🌟</summary>
+
+<p>
+
+1. Job scheduling in Operating System
+2. First Come First Serve Scheduling
+3. Shortest Job First Scheduling
+4. Shortest Remaining Time First Scheduling
+5. Priority Scheduling
+6. Premptive Priority Scheduling
+7. Non Premptive Priority Scheduling
+8. Round Robin Scheduling
+9. Page Replacement Algorithm
+10. First In First Out Page Replacement Algorithm
+11. Optimal Page Replacement Algorithm
+12. Least Recently Used Page Replacement Algorithm (LRU)
+13. Bankers Algorithm
+14. Reader Writter Problem
+15. Partitioning 
+16. Memory partitioning
+17. First Fit Memory partitioning
+18. Best Fit Memory partitioning
+19. Worst Fit Memory partitioning
+
+  
+
+</p>
+</details><br/>
+
 ------------
 
 
