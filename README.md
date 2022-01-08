@@ -28,7 +28,7 @@ All codes are written by me except the ones with a tilde (~) before their name i
 19. Worst Fit Memory partitioning
 
 </p>
-</details><br/>
+</details>
 
 ## Table of Contents
 
