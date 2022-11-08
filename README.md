@@ -1,8 +1,6 @@
 # Operating Systems Lab (ETCS-352)
 Experiments for Operating Systems Lab (ETCS-352) performed by me in 2021 at uni.
 
-All codes are written by me except the ones with a tilde (~) before their name in the Table of contents mentioned below. Most of the codes donot require any external libraries but for those that do, their corresponding imports are done at the top of their respective files. I have also attatched a cummulative requirements.txt file.
-
 <details><summary>Topics Covered 🌟</summary>
 
 <p>
